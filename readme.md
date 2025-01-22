@@ -33,6 +33,8 @@ A RESTful API for managing library operations including user management, book ma
 
 ```bash
 git clone https://github.com/safciplak/invent-test-case
+cd invent-test-case
+yarn
 ```
 
 2. Create `.env` file in root directory
